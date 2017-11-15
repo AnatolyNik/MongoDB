@@ -1,5 +1,7 @@
 # Connect to MongoDB
 # http://127.0.0.1:29123/library/RMongo/html/RMongo-package.html
+# https://www.r-bloggers.com/r-and-mongodb/
+
 library(RMongo)
 
 # Connect to a mongodb database: 
